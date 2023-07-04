@@ -13,12 +13,12 @@
 | 8.|[1162]| Write a function that returns the maximum number of edges you can remove while still satisfying this requirement.
 
 
-[1213]:https://github.com/anasvemmully/Daily-Coding-Problem/tree/main/Hard/1213
-[1218]:https://github.com/anasvemmully/Daily-Coding-Problem/tree/main/Hard/1218
-[1223]:https://github.com/anasvemmully/Daily-Coding-Problem/tree/main/Hard/1223
-[1233]:https://github.com/anasvemmully/Daily-Coding-Problem/tree/main/Hard/1233
-[1174]:https://github.com/anasvemmully/Daily-Coding-Problem/tree/main/Hard/1174
-[1173]:https://github.com/anasvemmully/Daily-Coding-Problem/tree/main/Hard/1173
-[1169]:https://github.com/anasvemmully/Daily-Coding-Problem/tree/main/Hard/1169
-[1165]:https://github.com/anasvemmully/Daily-Coding-Problem/tree/main/Hard/1165
-[1162]:https://github.com/anasvemmully/Daily-Coding-Problem/tree/main/Hard/1162
+[1213]:https://github.com/NavarasP/Daily-Coding-Problems-and-Solutions/tree/main/Hard/1213
+[1218]:https://github.com/NavarasP/Daily-Coding-Problems-and-Solutions/tree/main/Hard/1218
+[1223]:https://github.com/NavarasP/Daily-Coding-Problems-and-Solutions/tree/main/Hard/1223
+[1233]:https://github.com/NavarasP/Daily-Coding-Problems-and-Solutions/tree/main/Hard/1233
+[1174]:https://github.com/NavarasP/Daily-Coding-Problems-and-Solutions/tree/main/Hard/1174
+[1173]:https://github.com/NavarasP/Daily-Coding-Problems-and-Solutions/tree/main/Hard/1173
+[1169]:https://github.com/NavarasP/Daily-Coding-Problems-and-Solutions/tree/main/Hard/1169
+[1165]:https://github.com/NavarasP/Daily-Coding-Problems-and-Solutions/tree/main/Hard/1165
+[1162]:https://github.com/NavarasP/Daily-Coding-Problems-and-Solutions/tree/main/Hard/1162
