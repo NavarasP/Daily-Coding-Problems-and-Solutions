@@ -2,7 +2,7 @@
 
 | No. | #    | Description                     | Status |
 |:---: |:---: |:---                             |:---:   |
-|  1.    |[1]        | Given a list of numbers and a number `k`, return whether any two numbers from the list add up to `k` |       |
+|  1.    |[1]        | Given a list of numbers and a number `k`, return whether any two numbers from the list add up to `k` |  ✔️     |
 |  2.    |[1210]        | Given a binary search tree, find the floor and ceiling of a given integer. |       |
 |3.    |[1215]|Given a positive integer `N`, find the smallest number of steps it will take to reach `1`.      |  |
 |4.    |[1217]|Write an algorithm that finds the total number of set bits in all integers between `1` and `N`. ||
