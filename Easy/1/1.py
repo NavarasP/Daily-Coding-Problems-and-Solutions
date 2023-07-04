@@ -4,7 +4,7 @@ def find_pair(numbers, k):
     for num in numbers:
         complement = k - num
         if complement in seen_numbers:
-            return f"Numbers are {num} and {complement}", seen_numbers
+            return f"Numbers are {num} and {complement}"
         seen_numbers.add(num)
 
     return "Not Found"
