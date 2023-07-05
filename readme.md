@@ -5,7 +5,7 @@
 
 <!-- ![2] -->
 
-**Solved  : 0**\
+**Solved  : 1**\
 **Pending : ♾️**
 
 <!-- [1]: https://www.dailycodingproblem.com/ -->
