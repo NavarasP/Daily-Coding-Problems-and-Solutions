@@ -2,7 +2,7 @@
 
 | No. | #    | Description                     | Status |
 |:---:|:---: |:---:                            |:---:   |
-|1000.|[1000]| Given a list of numbers and a number `k`, return whether any two numbers from the list add up to `k`|✔️|
+|1000.:[1000]|| Given a list of numbers and a number `k`, return whether any two numbers from the list add up to `k`|✔️|
 |1001.|[1001]|||
 |1002.|[1002]|||
 |1003.|[1003]|||
