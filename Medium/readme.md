@@ -27,29 +27,29 @@
 |  23.   |[1166]        | Given a 2-D matrix representing an image, a location of a pixel in the screen and a color `C`, replace the color of the given pixel and all adjacent same colored pixels with `C`. |   |
 
 
-[1209]:https://github.com/NavarasP/Daily-Coding-Problems-and-Solutions/tree/main/Medium/1209
-[1211]:https://github.com/NavarasP/Daily-Coding-Problems-and-Solutions/tree/main/Medium/1211  
-[1212]:https://github.com/NavarasP/Daily-Coding-Problems-and-Solutions/tree/main/Medium/1212  
-[1214]:https://github.com/NavarasP/Daily-Coding-Problems-and-Solutions/tree/main/Medium/1214  
-[1216]:https://github.com/NavarasP/Daily-Coding-Problems-and-Solutions/tree/main/Medium/1216  
-[1225]:https://github.com/NavarasP/Daily-Coding-Problems-and-Solutions/tree/main/Medium/1225  
-[1230]:https://github.com/NavarasP/Daily-Coding-Problems-and-Solutions/tree/main/Medium/1230
-[1232]:https://github.com/NavarasP/Daily-Coding-Problems-and-Solutions/tree/main/Medium/1232
-[1236]:https://github.com/NavarasP/Daily-Coding-Problems-and-Solutions/tree/main/Medium/1236
-[1224]:https://github.com/NavarasP/Daily-Coding-Problems-and-Solutions/tree/main/Medium/1224
-[1226]:https://github.com/NavarasP/Daily-Coding-Problems-and-Solutions/tree/main/Medium/1226
-[1231]:https://github.com/NavarasP/Daily-Coding-Problems-and-Solutions/tree/main/Medium/1231
-[1235]:https://github.com/NavarasP/Daily-Coding-Problems-and-Solutions/tree/main/Medium/1235
-[1238]:https://github.com/NavarasP/Daily-Coding-Problems-and-Solutions/tree/main/Medium/1238
-[1239]:https://github.com/NavarasP/Daily-Coding-Problems-and-Solutions/tree/main/Medium/1239
-[1240]:https://github.com/NavarasP/Daily-Coding-Problems-and-Solutions/tree/main/Medium/1240
-[1242]:https://github.com/NavarasP/Daily-Coding-Problems-and-Solutions/tree/main/Medium/1242
-[1241]:https://github.com/NavarasP/Daily-Coding-Problems-and-Solutions/tree/main/Medium/1241
-[1244]:https://github.com/NavarasP/Daily-Coding-Problems-and-Solutions/tree/main/Medium/1244
-[1245]:https://github.com/NavarasP/Daily-Coding-Problems-and-Solutions/tree/main/Medium/1244
-[1172]:https://github.com/NavarasP/Daily-Coding-Problems-and-Solutions/tree/main/Medium/1172
-[1167]:https://github.com/NavarasP/Daily-Coding-Problems-and-Solutions/tree/main/Medium/1167
-[1166]:https://github.com/NavarasP/Daily-Coding-Problems-and-Solutions/tree/main/Medium/1166
+[1209]:https://github.com/NavarasP/Daily-Coding-Problems-and-Solutions/tree/main/Medium/Code/1209
+[1211]:https://github.com/NavarasP/Daily-Coding-Problems-and-Solutions/tree/main/Medium/Code/1211  
+[1212]:https://github.com/NavarasP/Daily-Coding-Problems-and-Solutions/tree/main/Medium/Code/1212  
+[1214]:https://github.com/NavarasP/Daily-Coding-Problems-and-Solutions/tree/main/Medium/Code/1214  
+[1216]:https://github.com/NavarasP/Daily-Coding-Problems-and-Solutions/tree/main/Medium/Code/1216  
+[1225]:https://github.com/NavarasP/Daily-Coding-Problems-and-Solutions/tree/main/Medium/Code/1225  
+[1230]:https://github.com/NavarasP/Daily-Coding-Problems-and-Solutions/tree/main/Medium/Code/1230
+[1232]:https://github.com/NavarasP/Daily-Coding-Problems-and-Solutions/tree/main/Medium/Code/1232
+[1236]:https://github.com/NavarasP/Daily-Coding-Problems-and-Solutions/tree/main/Medium/Code/1236
+[1224]:https://github.com/NavarasP/Daily-Coding-Problems-and-Solutions/tree/main/Medium/Code/1224
+[1226]:https://github.com/NavarasP/Daily-Coding-Problems-and-Solutions/tree/main/Medium/Code/1226
+[1231]:https://github.com/NavarasP/Daily-Coding-Problems-and-Solutions/tree/main/Medium/Code/1231
+[1235]:https://github.com/NavarasP/Daily-Coding-Problems-and-Solutions/tree/main/Medium/Code/1235
+[1238]:https://github.com/NavarasP/Daily-Coding-Problems-and-Solutions/tree/main/Medium/Code/1238
+[1239]:https://github.com/NavarasP/Daily-Coding-Problems-and-Solutions/tree/main/Medium/Code/1239
+[1240]:https://github.com/NavarasP/Daily-Coding-Problems-and-Solutions/tree/main/Medium/Code/1240
+[1242]:https://github.com/NavarasP/Daily-Coding-Problems-and-Solutions/tree/main/Medium/Code/1242
+[1241]:https://github.com/NavarasP/Daily-Coding-Problems-and-Solutions/tree/main/Medium/Code/1241
+[1244]:https://github.com/NavarasP/Daily-Coding-Problems-and-Solutions/tree/main/Medium/Code/1244
+[1245]:https://github.com/NavarasP/Daily-Coding-Problems-and-Solutions/tree/main/Medium/Code/1244
+[1172]:https://github.com/NavarasP/Daily-Coding-Problems-and-Solutions/tree/main/Medium/Code/1172
+[1167]:https://github.com/NavarasP/Daily-Coding-Problems-and-Solutions/tree/main/Medium/Code/1167
+[1166]:https://github.com/NavarasP/Daily-Coding-Problems-and-Solutions/tree/main/Medium/Code/1166
 
 
 ✔️
