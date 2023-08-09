@@ -2,9 +2,9 @@
 
 | No. | #    | Description                     | Status |
 |:---:|:---: |:---:                            |:---:   |
-|1000.:[1000]|| Given a list of numbers and a number `k`, return whether any two numbers from the list add up to `k`|✔️|
-|1001.|[1001]|||
-|1002.|[1002]|||
+|1000.|[1000]| Given a list of numbers and a number `k`, return whether any two numbers from the list add up to `k`|✔️|
+|1001.|[1001]|Count the number of unival subtrees in a binary tree where all nodes under it have the same value.||
+|1002.|[1002]|Find the intersecting node of two non-cyclical singly linked lists in O(M + N) time and constant space.||
 |1003.|[1003]|||
 |1004.|[1004]|||
 |1005.|[1005]|||
