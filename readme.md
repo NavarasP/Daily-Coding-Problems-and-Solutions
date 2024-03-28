@@ -19,7 +19,7 @@ Here are some of my solutions and explainations to the problems i found. If you 
 |:---:|:---:                            |:---:   |:---:  |
 |[Day0001].|Generating an array where each element is the product of all other elements in the input array except the one at its respective index.|✔️|Hard|
 |[Day0002].|Given an array of integers, the task is to find the lowest positive integer that does not exist in the array, using linear time complexity and constant space complexity.|✔️|Hard|
-|[Day0003].||✔️|Easy|
+|[Day0003].|Finding if there exist two numbers in a list that add up to a given number k.|✔️|Easy|
 |[Day0004].||✔️|Easy|
 |[Day0005].||✔️|Easy|
 |[Day0006].||✔️|Medium|
