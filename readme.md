@@ -16,68 +16,63 @@
 # **⭐Challenges**
 
 | No. | #    | Description                     | Status |Hardness|
-|:---:|:---: |:---:                            |:---:   |
-|1000.|[1000]| Given a list of numbers and a number `k`, return whether any two numbers from the list add up to `k`|✔️||
-|1001.|[1001]|Count the number of unival subtrees in a binary tree where all nodes under it have the same value.|||
-|1002.|[1002]|Find the intersecting node of two non-cyclical singly linked lists in O(M + N) time and constant space.|||
-|1003.|[1003]||||
-|1004.|[1004]||||
-|1005.|[1005]||||
-|1006.|[1006]||||
-|1007.|[1007]||||
-|1007.|[1007]||||
-|1007.|[1007]||||
-|1007.|[1007]||||
-|1007.|[1007]||||
-|1007.|[1007]||||
-|1007.|[1007]||||
-|1007.|[1007]||||
-|1007.|[1007]||||
-|1007.|[1007]||||
-|1007.|[1007]||||
-|1007.|[1007]||||
-|1007.|[1007]||||
-|1007.|[1007]||||
-|1007.|[1007]||||
-|1007.|[1007]||||
-|1007.|[1007]||||
-|1007.|[1007]||||
-|1007.|[1007]||||
-|1007.|[1007]||||
-|1007.|[1007]||||
-|1007.|[1007]||||
-|1007.|[1007]||||
-|1007.|[1007]||||
-|1007.|[1007]||||
-|1007.|[1007]||||
-
-|1007.|[1007]||||
-
-|1007.|[1007]||||
-
-|1007.|[1007]||||
-|1007.|[1007]||||
-|1007.|[1007]||||
-|1007.|[1007]||||
-|1007.|[1007]||||
-|1007.|[1007]||||
-|1007.|[1007]||||
-|1007.|[1007]||||
-|1007.|[1007]||||
-|1007.|[1007]||||
-|1007.|[1007]||||
-|1007.|[1007]||||
-|1007.|[1007]||||
-|1007.|[1007]||||
-|1007.|[1007]||||
-|1007.|[1007]||||
-|1007.|[1007]||||
-|1007.|[1007]||||
-|1007.|[1007]||||
-|1007.|[1007]||||
-
-|1008.|[1008]|||
-|1009.|[1009]|||
+|:---:|:---: |:---:                            |:---:   |:---:  |
+|Day0001.|[Day0001]|Count the number of unival subtrees in a binary tree where all nodes under it have the same value.|||
+|Day0002.|[Day0002]|Find the intersecting node of two non-cyclical singly linked lists in O(M + N) time and constant space.|||
+|Day0003.|[Day0003]||✔️||
+|Day0004.|[Day0004]||✔️||
+|Day0005.|[Day0005]||✔️||
+|Day0006.|[Day0006]||✔️||
+|Day0007.|[Day0007]||✔️||
+|Day0007.|[Day0007]||✔️||
+|Day0007.|[Day0007]||✔️||
+|Day0007.|[Day0007]||||
+|Day0007.|[Day0007]||||
+|Day0007.|[Day0007]||||
+|Day0007.|[Day0007]||||
+|Day0007.|[Day0007]||||
+|Day0007.|[Day0007]||||
+|Day0007.|[Day0007]||||
+|Day0007.|[Day0007]||||
+|Day0007.|[Day0007]||||
+|Day0007.|[Day0007]||||
+|Day0007.|[Day0007]||||
+|Day0007.|[Day0007]||||
+|Day0007.|[Day0007]||||
+|Day0007.|[Day0007]||||
+|Day0007.|[Day0007]||||
+|Day0007.|[Day0007]||||
+|Day0007.|[Day0007]||||
+|Day0007.|[Day0007]||||
+|Day0007.|[Day0007]||||
+|Day0007.|[Day0007]||||
+|Day0007.|[Day0007]||||
+|Day0007.|[Day0007]||||
+|Day0007.|[Day0007]||||
+|Day0007.|[Day0007]||||
+|Day0007.|[Day0007]||||
+|Day0007.|[Day0007]||||
+|Day0007.|[Day0007]||||
+|Day0007.|[Day0007]||||
+|Day0007.|[Day0007]||||
+|Day0007.|[Day0007]||||
+|Day0007.|[Day0007]||||
+|Day0007.|[Day0007]||||
+|Day0007.|[Day0007]||||
+|Day0007.|[Day0007]||||
+|Day0007.|[Day0007]||||
+|Day0007.|[Day0007]||||
+|Day0007.|[Day0007]||||
+|Day0007.|[Day0007]||||
+|Day0007.|[Day0007]||||
+|Day0007.|[Day0007]||||
+|Day0007.|[Day0007]||||
+|Day0007.|[Day0007]||||
+|Day0007.|[Day0007]||||
+|Day0007.|[Day0007]||||
+|Day0007.|[Day0007]||||
+|Day0008.|[Day0008]|||
+|Day0009.|[Day0009]|||
 |1010.|[1010]|||
 |1210.|[1210]| Given a binary search tree, find the floor and ceiling of a given integer.||
 |1215.|[1215]|Given a positive integer `N`, find the smallest number of steps it will take to reach `1`.||
@@ -99,16 +94,16 @@
 
 
 
-[1000]:https://github.com/NavarasP/Daily-Coding-Problems-and-Solutions/tree/main/Easy/Code/1000
-[1001]:https://github.com/NavarasP/Daily-Coding-Problems-and-Solutions/tree/main/Easy/Code/1001
-[1002]:https://github.com/NavarasP/Daily-Coding-Problems-and-Solutions/tree/main/Easy/Code/1002
-[1003]:https://github.com/NavarasP/Daily-Coding-Problems-and-Solutions/tree/main/Easy/Code/1003
-[1004]:https://github.com/NavarasP/Daily-Coding-Problems-and-Solutions/tree/main/Easy/Code/1004
-[1005]:https://github.com/NavarasP/Daily-Coding-Problems-and-Solutions/tree/main/Easy/Code/1005
-[1006]:https://github.com/NavarasP/Daily-Coding-Problems-and-Solutions/tree/main/Easy/Code/1006
-[1007]:https://github.com/NavarasP/Daily-Coding-Problems-and-Solutions/tree/main/Easy/Code/1007
-[1008]:https://github.com/NavarasP/Daily-Coding-Problems-and-Solutions/tree/main/Easy/Code/1008
-[1009]:https://github.com/NavarasP/Daily-Coding-Problems-and-Solutions/tree/main/Easy/Code/1009
+[Day0000]:https://github.com/NavarasP/Daily-Coding-Problems-and-Solutions/tree/main/Easy/Code/Day0000
+[Day0001]:https://github.com/NavarasP/Daily-Coding-Problems-and-Solutions/tree/main/Easy/Code/Day0001
+[Day0002]:https://github.com/NavarasP/Daily-Coding-Problems-and-Solutions/tree/main/Easy/Code/Day0002
+[Day0003]:https://github.com/NavarasP/Daily-Coding-Problems-and-Solutions/tree/main/Easy/Code/Day0003
+[Day0004]:https://github.com/NavarasP/Daily-Coding-Problems-and-Solutions/tree/main/Easy/Code/Day0004
+[Day0005]:https://github.com/NavarasP/Daily-Coding-Problems-and-Solutions/tree/main/Easy/Code/Day0005
+[Day0006]:https://github.com/NavarasP/Daily-Coding-Problems-and-Solutions/tree/main/Easy/Code/Day0006
+[Day0007]:https://github.com/NavarasP/Daily-Coding-Problems-and-Solutions/tree/main/Easy/Code/Day0007
+[Day0008]:https://github.com/NavarasP/Daily-Coding-Problems-and-Solutions/tree/main/Easy/Code/Day0008
+[Day0009]:https://github.com/NavarasP/Daily-Coding-Problems-and-Solutions/tree/main/Easy/Code/Day0009
 [1010]:https://github.com/NavarasP/Daily-Coding-Problems-and-Solutions/tree/main/Easy/Code/1010
 [1011]:https://github.com/NavarasP/Daily-Coding-Problems-and-Solutions/tree/main/Easy/Code/1011
 [1012]:https://github.com/NavarasP/Daily-Coding-Problems-and-Solutions/tree/main/Easy/Code/1012
