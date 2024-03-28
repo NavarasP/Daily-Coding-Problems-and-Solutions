@@ -1,4 +1,4 @@
-# **📌 DCP-1001** 
+# **📌 Day0002** 
 
 Good morning! Here's your coding interview problem for today.
 
